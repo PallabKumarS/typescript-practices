@@ -9,4 +9,10 @@ const test = (a, b) => {
         console.log("B is bigger");
     }
 };
-test(a, b);
+const student1 = {
+    name: "Pallab",
+    age: 25,
+    gender: "male",
+    address: "Rangpur",
+};
+console.log(student1);
